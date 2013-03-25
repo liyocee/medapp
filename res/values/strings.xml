@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Med App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="symptom">Symptom Screen!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_symptom">Symptom</string>
+    <string name="loading_symp">Loading Symptoms</string>
+    <string name="desc">Splash Image</string>
+    <string name="list_title">List Item</string>
+    <string name="doctor">Doctor</string>
+    <string name="first_aid">Doctor</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_doctor">DoctorActivity</string>
+    <string name="title_activity_first_aid">FirstAidActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_title">About MedApp</string>
+    <string name="about">        Medapp Helps you diagonise Common illness that you may encounter.</string>
+    <string name="aboutnext">        It is easy to use and anyone can use it</string>
+    <string name="title_activity_clinic">Clinic</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_cause">CauseActivity</string>
+    <string name="title_activity_treatment">TreatmentActivity</string>
+    <string name="title_activity_symptom_desc">SymptomDescActivity</string>
+    <string name="title_activity_system_tab">SystemTabActivity</string>
+    <string name="title_activity_first_aid_treatment">FirstAidTreatmentActivity</string>
+    <string name="title_activity_doctor_details">DoctorDetailsActivity</string>
+    <string name="title_activity_clinic_details">ClinicDetailsActivity</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  
+  android:id="@+id/android:list"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content" >	
+	<LinearLayout
+	    android:layout_width="match_parent"
+	     android:layout_height="wrap_content"
+	     android:padding="4dip"
+   		 android:gravity="center_horizontal"
+	   >
+	
+	    <TextView
+	         android:textSize="20sp"
+	         android:layout_height="wrap_content"
+   			 android:textAppearance="?android:attr/textAppearanceMedium" 
+	      	 android:layout_width="match_parent"
+	       
+	        android:id="@+id/symptom"
+	        android:text="@string/hello_world"
+	        />
+	
+	</LinearLayout>
+</ScrollView>
